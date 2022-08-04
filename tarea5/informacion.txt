@@ -1,0 +1,11 @@
+En la página Cuentas/Lista de usuarios de la interfaz de administración se pueden efectuar diversas acciones con los siguientes objetos del sistema:
+
+Administradores y usuarios. Ver, crear, editar, mover, renombrar, desabastecer, habilitar, inhabilitar, actualizar, desbloquear, eliminar, anular asignación, desvincular y auditar.
+
+Para obtener más información sobre la creación y edición de cuentas de administrador, consulte Conceptos de administración de Identity Manager .
+
+Organizaciones. Crear, editar, actualizar y realizar acciones de usuario con afiliados a una organización.
+
+Para obtener más información sobre las organizaciones, consulte Qué son las organizaciones en Identity Manager.
+
+Uniones de directorios. Crear un conjunto de organizaciones relacionadas jerárquicamente para reflejar un conjunto real de contenedores jerárquicos de recursos de directorio.
